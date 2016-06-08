@@ -1,0 +1,14 @@
+/* Inserta tu codigo aqui */
+#cajaPrincipal{
+	    background: #BFBFCC;
+}
+#caja2 {
+    background: white;
+    text-align: center;
+    border-radius: 20px;
+    width: 250px;
+}
+h1{
+	text-align: center;
+    background: #BBB1B1;
+}
